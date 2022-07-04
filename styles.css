@@ -8,7 +8,7 @@
     width: 100%;
     height: 100vh;
     background: #655b5b;
-    border:2px;
+    border-style:solid;
 }
 nav{
     display: flex;
