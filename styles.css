@@ -9,6 +9,7 @@
     height: 100vh;
     background: #655b5b;
     border-style:solid;
+    boeder-width:2px
 }
 nav{
     display: flex;
