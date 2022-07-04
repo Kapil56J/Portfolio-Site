@@ -17,11 +17,13 @@ I tried a lot of color combinations for the background but those colors didn't m
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Submission of project:
+
 I completed this project on 2nd july 2022 at 6PM. Tt tooks 7hrs to complete the project. This strength will help me to complete my upcoming projects.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Feeling after comoletion:
+
 This is my first and simple Portfolio Website and this portfolio is a representation of all that i've learned as a Student and starting Developer as my career.
  It was great experiance and really enjoyed the entire process. And the best thing is i can proudly says that--" This project is done by me."
  I hope you'll like this.
