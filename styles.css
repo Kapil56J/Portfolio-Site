@@ -63,6 +63,9 @@ span{
     margin-left: 10%;
     border-radius: 5px;
 }
+.details a:hover{
+    color: blue;
+}
 .images{
     width: 45%;
     height: 80%;
