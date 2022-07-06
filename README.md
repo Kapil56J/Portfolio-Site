@@ -22,7 +22,7 @@ I completed this project on 2nd july 2022 at 6PM. Tt tooks 7hrs to complete the 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Feeling after comoletion:
+Feeling after completion:
 
 This is my first and simple Portfolio Website and this portfolio is a representation of all that i've learned as a Student and starting Developer as my career.
  It was great experiance and really enjoyed the entire process. And the best thing is i can proudly says that--" This project is done by me."
